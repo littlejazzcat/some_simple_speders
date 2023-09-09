@@ -1,0 +1,1012 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="overflow-y:scroll;">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="keywords" content="kindle漫画,mobi漫画,漫画下载,漫画推送,Kobo漫画,epub漫画"/>
+<meta name="description" content="高清Kindle格式漫画下载，支持推送漫画到kindle设备。">
+<meta name="viewport" content="width=1200,user-scalable=0">
+<meta name="theme-color" content="#505050" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#202020" media="(prefers-color-scheme: dark)">
+<title>Kox.moe [Kindle漫畫|Kobo漫畫|epub漫畫] [kox.moe]</title>
+<link rel="apple-touch-icon" href="/favicon.ico" />
+<link rel="icon" type="image/png" href="/img/mox-logo-256.png" />
+<link rel="stylesheet" href="/zxweb.css?0701" type="text/css" />
+</head>
+<body>
+<div class="top_rgba_deep">
+  <div class="top_nav">
+    <div class="nav_logo">
+      <a href="https://kox.moe/"><img id="logo-edging" src="https://moimg.mxomo.com/mox/moe-logo-edging.png" border="0" alt="logo" /></a>
+    </div>
+    <div class="nav_banner">
+    </div>
+    <form action="https://kox.moe/list.php" method="get" name="search2">
+    <div class="nav_search">
+      &nbsp;　　　&nbsp;
+      <input type=text name="s" maxlength="100" class="input_sml_rgba top_rgba_light" style="width:180px;"> &nbsp;
+      <button type="submit" class="bt_sml_main">搜索漫畫</button>
+    </div>
+    </form>
+    <div class="nav_user text_bgdeep text_herf_notline">
+      <a href="https://kox.moe/login.php">登錄</a>｜
+      <a href="https://kox.moe/u//">信息主頁</a> ｜
+      <a href="https://kox.moe/mycomic.php">上傳漫畫</a> ｜
+      <a href="/c/10001.htm">問題反饋</a> ｜
+      <a href="https://kox.moe/donate.php">支持成為VIP</a>
+    </div>
+  </div>
+</div>
+
+<!-- content -->
+<center class="top_rgba_light2">
+<table class="book_list text_bglight text_herf_notline" style="font-weight:bold;">
+  <tr>
+    <td style="text-align:left;" colspan="5">
+      &nbsp;　　　　分類：
+      <a href="https://kox.moe/l/all,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_all">&nbsp;全部&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*幽默,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_幽默">&nbsp;幽默&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*愛情,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_愛情">&nbsp;愛情&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*競技,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_競技">&nbsp;競技&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*熱血,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_熱血">&nbsp;熱血&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*格鬥,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_格鬥">&nbsp;格鬥&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*冒險,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_冒險">&nbsp;冒險&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*恐怖,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_恐怖">&nbsp;恐怖&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*生存,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_生存">&nbsp;生存&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*懸疑,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_懸疑">&nbsp;懸疑&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*偵探,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_偵探">&nbsp;偵探&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*歷史,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_歷史">&nbsp;歷史&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*戰爭,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_戰爭">&nbsp;戰爭&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*生活,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_生活">&nbsp;生活&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*勵志,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_勵志">&nbsp;勵志&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*校園,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_校園">&nbsp;校園&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*職場,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_職場">&nbsp;職場&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*美食,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_美食">&nbsp;美食&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*音樂,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_音樂">&nbsp;音樂舞蹈&nbsp;</a>
+      <br />
+      &nbsp;　　　　　　　<!-- -->
+      <a href="https://kox.moe/l/CAT*機戰,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_機戰">&nbsp;機戰&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*科幻,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_科幻">&nbsp;科幻&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*魔幻,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_魔幻">&nbsp;魔幻&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*魔法,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_魔法">&nbsp;魔法&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*奇幻,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_奇幻">&nbsp;奇幻&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*神鬼,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_神鬼">&nbsp;神鬼&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*武俠,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_武俠">&nbsp;武俠&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*仙俠,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_仙俠">&nbsp;仙俠&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*治癒,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_治癒">&nbsp;治癒&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*萌系,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_萌系">&nbsp;萌系&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*宅系,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_宅系">&nbsp;宅系&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*青年,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_青年">&nbsp;青年&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*少年,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_少年">&nbsp;少年&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*少女,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_少女">&nbsp;少女&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*後宮,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_後宮">&nbsp;後宮&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*百合,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_百合">&nbsp;百合&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*偽娘,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_偽娘">&nbsp;偽娘&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*性轉,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_性轉">&nbsp;性轉換&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*耽美,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_耽美">&nbsp;耽美&nbsp;</a><a href="https://kox.moe/l/all2.htm,all,all,sortpoint,all,all,BL,0,0/"  title="過濾短篇耽美"
+         id="sel_igno_耽美"></a><a href="https://kox.moe/l/all2.htm,all,all,sortpoint,all,all,none,0,0/" title="包含所有耽美"
+         id="sel_igno_clean_耽美"></a><font class="filesize" id="info_igno" style="display:none"> 已過濾短篇</font>
+      <br />
+      &nbsp;　　　　　　　<!-- -->
+      <a href="https://kox.moe/l/CAT*轉生,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_轉生">&nbsp;轉生&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*穿越,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_穿越">&nbsp;穿越&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*童話,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_童話">&nbsp;童話&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*東方,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_東方">&nbsp;東方&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*四格,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_四格">&nbsp;四格&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*繪本,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_繪本">&nbsp;繪本&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*藝術,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_藝術">&nbsp;藝術&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*雜誌,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_雜誌">&nbsp;雜誌&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*輕改,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_輕改">&nbsp;輕小說改編&nbsp;</a>
+      <a href="https://kox.moe/l/CAT*連環畫,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_type_連環畫">&nbsp;連環畫&nbsp;</a>
+      <br /><div style="height:15px"></div>
+      &nbsp;　　　　語言：
+      <a href="https://kox.moe/l/all2.htm,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_lang_all">&nbsp;全部&nbsp;</a>
+      <a href="https://kox.moe/l/all2.htm,all,all,sortpoint,chn,all,none,0,0/"
+         id="sel_lang_chn">&nbsp;中文&nbsp;</a>
+      <a href="https://kox.moe/l/all2.htm,all,all,sortpoint,cht,all,none,0,0/"
+         id="sel_lang_cht">&nbsp;繁體&nbsp;</a>
+      <a href="https://kox.moe/l/all2.htm,all,all,sortpoint,chs,all,none,0,0/"
+         id="sel_lang_chs">&nbsp;简体&nbsp;</a>
+      <a href="https://kox.moe/l/all2.htm,all,all,sortpoint,jpn,all,none,0,0/"
+         id="sel_lang_jpn">&nbsp;日語&nbsp;</a>
+      <a href="https://kox.moe/l/all2.htm,all,all,sortpoint,eng,all,none,0,0/"
+         id="sel_lang_eng">&nbsp;英文&nbsp;</a>
+      <a href="https://kox.moe/l/all2.htm,all,all,sortpoint,oth,all,none,0,0/"
+         id="sel_lang_oth">&nbsp;其他&nbsp;</a>
+      &nbsp;　　地區：
+      <a href="https://kox.moe/l/all2.htm,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_region_all">&nbsp;全部&nbsp;</a>
+      <a href="https://kox.moe/l/all2.htm,日本,all,sortpoint,all,all,none,0,0/"
+         id="sel_region_日本">&nbsp;日本&nbsp;</a>
+      <a href="https://kox.moe/l/all2.htm,歐美,all,sortpoint,all,all,none,0,0/"
+         id="sel_region_歐美">&nbsp;歐美&nbsp;</a>
+      <a href="https://kox.moe/l/all2.htm,港臺,all,sortpoint,all,all,none,0,0/"
+         id="sel_region_港臺">&nbsp;港臺&nbsp;</a>
+      <a href="https://kox.moe/l/all2.htm,大陸,all,sortpoint,all,all,none,0,0/"
+         id="sel_region_大陸">&nbsp;大陸&nbsp;</a>
+      <a href="https://kox.moe/l/all2.htm,韓國,all,sortpoint,all,all,none,0,0/"
+         id="sel_region_韓國">&nbsp;韓國&nbsp;</a>
+      <br /><div style="height:15px"></div>
+      &nbsp;　　　　篇幅：
+      <a href="https://kox.moe/l/all2.htm,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_blen_all">&nbsp;全部&nbsp;</a>
+      <a href="https://kox.moe/l/all2.htm,all,all,sortpoint,all,s,none,0,0/"
+         id="sel_blen_s">&nbsp;短篇&nbsp;</a>
+      <a href="https://kox.moe/l/all2.htm,all,all,sortpoint,all,m,none,0,0/"
+         id="sel_blen_m">&nbsp;中篇&nbsp;</a>
+      <a href="https://kox.moe/l/all2.htm,all,all,sortpoint,all,l,none,0,0/"
+         id="sel_blen_l">&nbsp;長篇&nbsp;</a>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;　　　　　　　　狀態：
+      <a href="https://kox.moe/l/all2.htm,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_status_all">&nbsp;全部&nbsp;</a>
+      <a href="https://kox.moe/l/all2.htm,all,完結,sortpoint,all,all,none,0,0/"
+         id="sel_status_完結">&nbsp;完結&nbsp;</a>
+      <a href="https://kox.moe/l/all2.htm,all,連載,sortpoint,all,all,none,0,0/"
+         id="sel_status_連載">&nbsp;連載&nbsp;</a>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;　　　　　　　標籤：
+      <a href="https://kox.moe/l/all2.htm,all,all,sortpoint,all,all,none,1,0/"
+         id="sel_filter_color">&nbsp;彩色&nbsp;</a>
+      <a href="https://kox.moe/l/all2.htm,all,all,sortpoint,all,all,none,0,1/"
+         id="sel_filter_hd">&nbsp;高清&nbsp;</a>
+      &nbsp;　　　　　　　<a href="https://kox.moe/authlogin_do.php?j=1&s=105&goto=https%3A%2F%2Fbookof.moe%2Fshop.php" target="_blank">買漫畫周邊</a>
+      &nbsp;　　<a href="https://kox.moe/authlogin_do.php?j=1&s=107&goto=https%3A%2F%2Fwww.bookshop.tw" target="_blank">正版實體漫畫書</a>
+      <!-- 廣告鏈接 :　　<a href="/orange.htm" target="_blank">賣「臍橙」的小廣告</a -->
+      <br /><div style="height:15px"></div>
+      &nbsp;　　　　排序：
+      <a href="https://kox.moe/l/all2.htm,all,all,sortpoint,all,all,none,0,0/"
+         id="sel_order_sortpoint">&nbsp;綜合排序&nbsp;</a>
+      <a href="https://kox.moe/l/all2.htm,all,all,score,all,all,none,0,0/"
+         id="sel_order_score">&nbsp;評價排名&nbsp;</a>
+      <a href="https://kox.moe/l/all2.htm,all,all,count_push,all,all,none,0,0/"
+         id="sel_order_count_push">&nbsp;熱度排序&nbsp;</a>
+      <!-- a href="https://kox.moe/l/all2.htm,all,all,count_mon,all,all/"
+             id="sel_order_count_mon">&nbsp;月度排名&nbsp;</a -->
+      <a href="https://kox.moe/l/all2.htm,all,all,count_rise,all,all,none,0,0/"
+         id="sel_order_count_rise">&nbsp;最近熱門&nbsp;</a>
+      <a href="https://kox.moe/l/all2.htm,all,all,random,all,all,none,0,0/"
+         id="sel_order_random">&nbsp;隨機排序&nbsp;</a>
+      <a href="https://kox.moe/l/all2.htm,all,all,newadd,all,all,none,0,0/"
+         id="sel_order_newadd">&nbsp;最近收錄&nbsp;</a>
+      <a href="https://kox.moe/l/all2.htm,all,all,lastupdate,all,all,none,0,0/"
+         id="sel_order_lastupdate">&nbsp;最近更新&nbsp;</a>
+      &nbsp;　　　　　　　　　　　　　　　　　&nbsp;
+      本站支持 Kindle 設備自帶瀏覽器瀏覽下載
+      <!-- a href="https://mix.moe" target="_blank">Mix.moe漫畫插畫，分享你的漫畫插畫</a -->
+      <!-- 訂閱 <a href="/comic/50001.htm">Volmoe期刊</a> 熱門漫畫定期更新推送 -->
+    </td>
+  </tr>
+</table>
+</center>
+<div class="hr_6"></div>
+<div>
+  <table class="book_list">
+
+    <tr style="vertical-align:top">
+      <td class='listtitle' colspan="6">
+        <label style='vertical-align:middle;'>&nbsp;all2.htm</label>
+      </td>
+      <td class='listtitle' colspan="15" style="height:56px;text-align:right;padding-right:20px;">
+        <label style='vertical-align:middle;'>17029 部 / 811 頁　
+        <button type="button" class="bt_sml_disa" style="width:70px" disabled>&lt;十頁</button>
+        <button type="button" class="bt_sml_disa" style="width:60px" disabled>上頁</button>
+        <a href="https://kox.moe/l/all2.htm,all,all,sortpoint,all,all,none/1.htm"><button type="button" name="link_page" class="bt_sml_defa" style="width:46px">01</button></a>
+        <a href="https://kox.moe/l/all2.htm,all,all,sortpoint,all,all,none/2.htm"><button type="button" name="link_page" class="bt_sml_defa" style="width:46px">02</button></a>
+        <a href="https://kox.moe/l/all2.htm,all,all,sortpoint,all,all,none/3.htm"><button type="button" name="link_page" class="bt_sml_defa" style="width:46px">03</button></a>
+        <a href="https://kox.moe/l/all2.htm,all,all,sortpoint,all,all,none/4.htm"><button type="button" name="link_page" class="bt_sml_defa" style="width:46px">04</button></a>
+        <a href="https://kox.moe/l/all2.htm,all,all,sortpoint,all,all,none/5.htm"><button type="button" name="link_page" class="bt_sml_defa" style="width:46px">05</button></a>
+        <a href="https://kox.moe/l/all2.htm,all,all,sortpoint,all,all,none/2.htm"><button type="button" class="bt_sml_main" style="width:60px">下頁</button></a>
+        <a href="https://kox.moe/l/all2.htm,all,all,sortpoint,all,all,none/11.htm"><button type="button" class="bt_sml_defa" style="width:70px">十頁&gt;</button></a>
+        　到 <input id='input_go' type='text' style='width:20px' class="input_sml" style="font-size:10px;height:20px;"> 頁
+        <button type="button" class="bt_sml_defa" style="width:40px" onclick='javascript:do_page_go( "all2.htm,all,all,sortpoint,all,all,none", "input_go" );'>GO</button>
+        </label>
+      </td>
+    </tr>
+
+    <tr class='listbg' style="padding:0px;">
+
+        <td width='15px' height="200px" style="vertical-align:top;padding:0px;">&nbsp;</td>
+        <td width='140px' height="200px" style="vertical-align:top;padding:0px;text-align:left;border-radius:0px;border:0px solid #C8C8CD;">
+          <a href='https://kox.moe/c/18880.htm' style="padding:0px"><div style="padding:0px;">
+            <div 
+              style="background:url(https://img.mxomo.com/cover/book/0018/18880.jpg!224x320?sign=1678157661-57661-0-178b3d2e851c674eba91624f58913f4f) no-repeat center;background-size:140px 200px;
+                     padding:0px;vertical-align:middle;text-align:right;width:140px;height:200px;border:1px solid #C8C8CD;">
+              <div style="background:rgba(0,0,0,0.0);border:0px;padding:0px 5px 0px 5px;height:23px;">
+                <font style="padding:0px;color:#6a4c9c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>日語&nbsp;</b></font>
+                <font style="padding:0px;color:#0089a7;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>英文&nbsp;</b></font>
+                <font style="padding:0px;color:#22b14c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>完結&nbsp;</b></font>
+                <font style="padding:0px;color:#22b14c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>停更&nbsp;</b></font>
+              </div>
+              <p style="padding:140px 5px 0px 0px;color:#FF7700;font-size:15px;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>8.6</b></p></div>
+          </div></a>
+          <center class="bg_line_gary" style="display:none"></center>
+          <center style="height:3px;"></center>
+          <div style="padding:0px 5px 0px 5px;">
+            <a href='https://kox.moe/c/18880.htm' style="font-size:13px;">時不時說一句俄羅斯語來掩飾害羞的鄰桌亞莉同學</a> <br />
+            <font class="pagefoot">ももこ,燦々SUN,たぴおか</font> <br />
+            <font class="filesize">　</font>
+          </div>
+        </td>
+        <td width='15px' height="200px" style="vertical-align:top;padding:0px;">&nbsp;</td>
+
+        <td width='15px' height="200px" style="vertical-align:top;padding:0px;">&nbsp;</td>
+        <td width='140px' height="200px" style="vertical-align:top;padding:0px;text-align:left;border-radius:0px;border:0px solid #C8C8CD;">
+          <a href='https://kox.moe/c/51438.htm' style="padding:0px"><div style="padding:0px;">
+            <div 
+              style="background:url(https://img.mxomo.com/cover/book/0083/51438.jpg!224x320?sign=1678085227-85227-0-cb2feec93631701b96eaaffbce530d15) no-repeat center;background-size:140px 200px;
+                     padding:0px;vertical-align:middle;text-align:right;width:140px;height:200px;border:1px solid #C8C8CD;">
+              <div style="background:rgba(0,0,0,0.0);border:0px;padding:0px 5px 0px 5px;height:23px;">
+                <font style="padding:0px;color:#6a4c9c;font-size:14px;line-height:23px;display:;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>日語&nbsp;</b></font>
+                <font style="padding:0px;color:#0089a7;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>英文&nbsp;</b></font>
+                <font style="padding:0px;color:#22b14c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>完結&nbsp;</b></font>
+                <font style="padding:0px;color:#22b14c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>停更&nbsp;</b></font>
+              </div>
+              <p style="padding:140px 5px 0px 0px;color:#FF7700;font-size:15px;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>8.7</b></p></div>
+          </div></a>
+          <center class="bg_line_gary" style="display:none"></center>
+          <center style="height:3px;"></center>
+          <div style="padding:0px 5px 0px 5px;">
+            <a href='https://kox.moe/c/51438.htm' style="font-size:13px;">文豪ストレイドッグス</a> <br />
+            <font class="pagefoot">春河35,朝霧カフカ</font> <br />
+            <font class="filesize">　</font>
+          </div>
+        </td>
+        <td width='15px' height="200px" style="vertical-align:top;padding:0px;">&nbsp;</td>
+
+        <td width='15px' height="200px" style="vertical-align:top;padding:0px;">&nbsp;</td>
+        <td width='140px' height="200px" style="vertical-align:top;padding:0px;text-align:left;border-radius:0px;border:0px solid #C8C8CD;">
+          <a href='https://kox.moe/c/23834.htm' style="padding:0px"><div style="padding:0px;">
+            <div 
+              style="background:url(https://img.mxomo.com/cover/book/0028/23834.jpg!224x320?sign=1678184391-84391-0-7f87eae62cf9261c35580d39d23d2c0e) no-repeat center;background-size:140px 200px;
+                     padding:0px;vertical-align:middle;text-align:right;width:140px;height:200px;border:1px solid #C8C8CD;">
+              <div style="background:rgba(0,0,0,0.0);border:0px;padding:0px 5px 0px 5px;height:23px;">
+                <font style="padding:0px;color:#6a4c9c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>日語&nbsp;</b></font>
+                <font style="padding:0px;color:#0089a7;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>英文&nbsp;</b></font>
+                <font style="padding:0px;color:#22b14c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>完結&nbsp;</b></font>
+                <font style="padding:0px;color:#22b14c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>停更&nbsp;</b></font>
+              </div>
+              <p style="padding:140px 5px 0px 0px;color:#FF7700;font-size:15px;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>7.8</b></p></div>
+          </div></a>
+          <center class="bg_line_gary" style="display:none"></center>
+          <center style="height:3px;"></center>
+          <div style="padding:0px 5px 0px 5px;">
+            <a href='https://kox.moe/c/23834.htm' style="font-size:13px;">主角戀愛日記</a> <br />
+            <font class="pagefoot">吉永ゆう,吉永友</font> <br />
+            <font class="filesize">　</font>
+          </div>
+        </td>
+        <td width='15px' height="200px" style="vertical-align:top;padding:0px;">&nbsp;</td>
+
+        <td width='15px' height="200px" style="vertical-align:top;padding:0px;">&nbsp;</td>
+        <td width='140px' height="200px" style="vertical-align:top;padding:0px;text-align:left;border-radius:0px;border:0px solid #C8C8CD;">
+          <a href='https://kox.moe/c/50408.htm' style="padding:0px"><div style="padding:0px;">
+            <div 
+              style="background:url(https://img.mxomo.com/cover/book/0081/50408.jpg!224x320?sign=1678005866-05866-0-70203758e79285ede60b6ebf16730a55) no-repeat center;background-size:140px 200px;
+                     padding:0px;vertical-align:middle;text-align:right;width:140px;height:200px;border:1px solid #C8C8CD;">
+              <div style="background:rgba(0,0,0,0.0);border:0px;padding:0px 5px 0px 5px;height:23px;">
+                <font style="padding:0px;color:#6a4c9c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>日語&nbsp;</b></font>
+                <font style="padding:0px;color:#0089a7;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>英文&nbsp;</b></font>
+                <font style="padding:0px;color:#22b14c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>完結&nbsp;</b></font>
+                <font style="padding:0px;color:#22b14c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>停更&nbsp;</b></font>
+              </div>
+              <p style="padding:140px 5px 0px 0px;color:#FF7700;font-size:15px;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>9.3</b></p></div>
+          </div></a>
+          <center class="bg_line_gary" style="display:none"></center>
+          <center style="height:3px;"></center>
+          <div style="padding:0px 5px 0px 5px;">
+            <a href='https://kox.moe/c/50408.htm' style="font-size:13px;">小林家的龍女僕</a> <br />
+            <font class="pagefoot">クール教信者</font> <br />
+            <font class="filesize">　</font>
+          </div>
+        </td>
+        <td width='15px' height="200px" style="vertical-align:top;padding:0px;">&nbsp;</td>
+
+        <td width='15px' height="200px" style="vertical-align:top;padding:0px;">&nbsp;</td>
+        <td width='140px' height="200px" style="vertical-align:top;padding:0px;text-align:left;border-radius:0px;border:0px solid #C8C8CD;">
+          <a href='https://kox.moe/c/23571.htm' style="padding:0px"><div style="padding:0px;">
+            <div 
+              style="background:url(https://img.mxomo.com/cover/book/0028/23571.jpg!224x320?sign=1678187018-87018-0-d6f4f0084b2ed6df9c72db0b9850e0e8) no-repeat center;background-size:140px 200px;
+                     padding:0px;vertical-align:middle;text-align:right;width:140px;height:200px;border:1px solid #C8C8CD;">
+              <div style="background:rgba(0,0,0,0.0);border:0px;padding:0px 5px 0px 5px;height:23px;">
+                <font style="padding:0px;color:#6a4c9c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>日語&nbsp;</b></font>
+                <font style="padding:0px;color:#0089a7;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>英文&nbsp;</b></font>
+                <font style="padding:0px;color:#22b14c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>完結&nbsp;</b></font>
+                <font style="padding:0px;color:#22b14c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>停更&nbsp;</b></font>
+              </div>
+              <p style="padding:140px 5px 0px 0px;color:#FF7700;font-size:15px;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>6.4</b></p></div>
+          </div></a>
+          <center class="bg_line_gary" style="display:none"></center>
+          <center style="height:3px;"></center>
+          <div style="padding:0px 5px 0px 5px;">
+            <a href='https://kox.moe/c/23571.htm' style="font-size:13px;">全都破壞掉!</a> <br />
+            <font class="pagefoot">へじていと,山岸菜</font> <br />
+            <font class="filesize">　</font>
+          </div>
+        </td>
+        <td width='15px' height="200px" style="vertical-align:top;padding:0px;">&nbsp;</td>
+
+        <td width='15px' height="200px" style="vertical-align:top;padding:0px;">&nbsp;</td>
+        <td width='140px' height="200px" style="vertical-align:top;padding:0px;text-align:left;border-radius:0px;border:0px solid #C8C8CD;">
+          <a href='https://kox.moe/c/19971.htm' style="padding:0px"><div style="padding:0px;">
+            <div 
+              style="background:url(https://img.mxomo.com/cover/book/0020/19971.jpg!224x320?sign=1678105893-05893-0-4fd7dfc0aa35f2244944d74ed1f99cc9) no-repeat center;background-size:140px 200px;
+                     padding:0px;vertical-align:middle;text-align:right;width:140px;height:200px;border:1px solid #C8C8CD;">
+              <div style="background:rgba(0,0,0,0.0);border:0px;padding:0px 5px 0px 5px;height:23px;">
+                <font style="padding:0px;color:#6a4c9c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>日語&nbsp;</b></font>
+                <font style="padding:0px;color:#0089a7;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>英文&nbsp;</b></font>
+                <font style="padding:0px;color:#22b14c;font-size:14px;line-height:23px;display:;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>完結&nbsp;</b></font>
+                <font style="padding:0px;color:#22b14c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>停更&nbsp;</b></font>
+              </div>
+              <p style="padding:140px 5px 0px 0px;color:#FF7700;font-size:15px;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>8.3</b></p></div>
+          </div></a>
+          <center class="bg_line_gary" style="display:none"></center>
+          <center style="height:3px;"></center>
+          <div style="padding:0px 5px 0px 5px;">
+            <a href='https://kox.moe/c/19971.htm' style="font-size:13px;">Say Ending</a> <br />
+            <font class="pagefoot">毛洙</font> <br />
+            <font class="filesize">　</font>
+          </div>
+        </td>
+        <td width='15px' height="200px" style="vertical-align:top;padding:0px;">&nbsp;</td>
+
+        <td width='15px' height="200px" style="vertical-align:top;padding:0px;">&nbsp;</td>
+        <td width='140px' height="200px" style="vertical-align:top;padding:0px;text-align:left;border-radius:0px;border:0px solid #C8C8CD;">
+          <a href='https://kox.moe/c/b26fac.htm' style="padding:0px"><div style="padding:0px;">
+            <div 
+              style="background:url(https://img.mxomo.com/cover/book/b26/b26fac.jpg!224x320?sign=1678183801-83801-0-5028da0e7841564ed973f8258e0b3610) no-repeat center;background-size:140px 200px;
+                     padding:0px;vertical-align:middle;text-align:right;width:140px;height:200px;border:1px solid #C8C8CD;">
+              <div style="background:rgba(0,0,0,0.0);border:0px;padding:0px 5px 0px 5px;height:23px;">
+                <font style="padding:0px;color:#6a4c9c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>日語&nbsp;</b></font>
+                <font style="padding:0px;color:#0089a7;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>英文&nbsp;</b></font>
+                <font style="padding:0px;color:#22b14c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>完結&nbsp;</b></font>
+                <font style="padding:0px;color:#22b14c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>停更&nbsp;</b></font>
+              </div>
+              <p style="padding:140px 5px 0px 0px;color:#FF7700;font-size:15px;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>6.0</b></p></div>
+          </div></a>
+          <center class="bg_line_gary" style="display:none"></center>
+          <center style="height:3px;"></center>
+          <div style="padding:0px 5px 0px 5px;">
+            <a href='https://kox.moe/c/b26fac.htm' style="font-size:13px;">天堂的天平</a> <br />
+            <font class="pagefoot">浄土るる</font> <br />
+            <font class="filesize">　</font>
+          </div>
+        </td>
+        <td width='15px' height="200px" style="vertical-align:top;padding:0px;">&nbsp;</td>
+
+    </tr> 
+    <tr class='listbg' style="padding:0px;">
+      <td colspan="21" style="height:20px;text-align:right;padding:0px;"></td>
+    </tr>
+
+    <tr class='listbg' style="padding:0px;">
+
+        <td width='15px' height="200px" style="vertical-align:top;padding:0px;">&nbsp;</td>
+        <td width='140px' height="200px" style="vertical-align:top;padding:0px;text-align:left;border-radius:0px;border:0px solid #C8C8CD;">
+          <a href='https://kox.moe/c/27853.htm' style="padding:0px"><div style="padding:0px;">
+            <div 
+              style="background:url(https://img.mxomo.com/cover/book/0036/27853.jpg!224x320?sign=1678182682-82682-0-2511206ff2ad91d52ad40ea90ee3afda) no-repeat center;background-size:140px 200px;
+                     padding:0px;vertical-align:middle;text-align:right;width:140px;height:200px;border:1px solid #C8C8CD;">
+              <div style="background:rgba(0,0,0,0.0);border:0px;padding:0px 5px 0px 5px;height:23px;">
+                <font style="padding:0px;color:#6a4c9c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>日語&nbsp;</b></font>
+                <font style="padding:0px;color:#0089a7;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>英文&nbsp;</b></font>
+                <font style="padding:0px;color:#22b14c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>完結&nbsp;</b></font>
+                <font style="padding:0px;color:#22b14c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>停更&nbsp;</b></font>
+              </div>
+              <p style="padding:140px 5px 0px 0px;color:#FF7700;font-size:15px;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>6.0</b></p></div>
+          </div></a>
+          <center class="bg_line_gary" style="display:none"></center>
+          <center style="height:3px;"></center>
+          <div style="padding:0px 5px 0px 5px;">
+            <a href='https://kox.moe/c/27853.htm' style="font-size:13px;">刃牙外傳 遊樂園</a> <br />
+            <font class="pagefoot">藤田勇利亜,夢枕獏,板垣恵介</font> <br />
+            <font class="filesize">　</font>
+          </div>
+        </td>
+        <td width='15px' height="200px" style="vertical-align:top;padding:0px;">&nbsp;</td>
+
+        <td width='15px' height="200px" style="vertical-align:top;padding:0px;">&nbsp;</td>
+        <td width='140px' height="200px" style="vertical-align:top;padding:0px;text-align:left;border-radius:0px;border:0px solid #C8C8CD;">
+          <a href='https://kox.moe/c/27817.htm' style="padding:0px"><div style="padding:0px;">
+            <div 
+              style="background:url(https://img.mxomo.com/cover/book/0036/27817.jpg!224x320?sign=1678182150-82150-0-2361c6c5df8bb0f55c929f647fddc111) no-repeat center;background-size:140px 200px;
+                     padding:0px;vertical-align:middle;text-align:right;width:140px;height:200px;border:1px solid #C8C8CD;">
+              <div style="background:rgba(0,0,0,0.0);border:0px;padding:0px 5px 0px 5px;height:23px;">
+                <font style="padding:0px;color:#6a4c9c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>日語&nbsp;</b></font>
+                <font style="padding:0px;color:#0089a7;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>英文&nbsp;</b></font>
+                <font style="padding:0px;color:#22b14c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>完結&nbsp;</b></font>
+                <font style="padding:0px;color:#22b14c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>停更&nbsp;</b></font>
+              </div>
+              <p style="padding:140px 5px 0px 0px;color:#FF7700;font-size:15px;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>6.0</b></p></div>
+          </div></a>
+          <center class="bg_line_gary" style="display:none"></center>
+          <center style="height:3px;"></center>
+          <div style="padding:0px 5px 0px 5px;">
+            <a href='https://kox.moe/c/27817.htm' style="font-size:13px;">璐榭與白魂契約</a> <br />
+            <font class="pagefoot">御巫桃也</font> <br />
+            <font class="filesize">　</font>
+          </div>
+        </td>
+        <td width='15px' height="200px" style="vertical-align:top;padding:0px;">&nbsp;</td>
+
+        <td width='15px' height="200px" style="vertical-align:top;padding:0px;">&nbsp;</td>
+        <td width='140px' height="200px" style="vertical-align:top;padding:0px;text-align:left;border-radius:0px;border:0px solid #C8C8CD;">
+          <a href='https://kox.moe/c/61869e.htm' style="padding:0px"><div style="padding:0px;">
+            <div 
+              style="background:url(https://img.mxomo.com/cover/book/618/61869e.jpg!224x320?sign=1678180242-80242-0-d654ea79a2209500936d55aea79bd019) no-repeat center;background-size:140px 200px;
+                     padding:0px;vertical-align:middle;text-align:right;width:140px;height:200px;border:1px solid #C8C8CD;">
+              <div style="background:rgba(0,0,0,0.0);border:0px;padding:0px 5px 0px 5px;height:23px;">
+                <font style="padding:0px;color:#6a4c9c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>日語&nbsp;</b></font>
+                <font style="padding:0px;color:#0089a7;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>英文&nbsp;</b></font>
+                <font style="padding:0px;color:#22b14c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>完結&nbsp;</b></font>
+                <font style="padding:0px;color:#22b14c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>停更&nbsp;</b></font>
+              </div>
+              <p style="padding:140px 5px 0px 0px;color:#FF7700;font-size:15px;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>6.0</b></p></div>
+          </div></a>
+          <center class="bg_line_gary" style="display:none"></center>
+          <center style="height:3px;"></center>
+          <div style="padding:0px 5px 0px 5px;">
+            <a href='https://kox.moe/c/61869e.htm' style="font-size:13px;">成為塔的管理者吧！</a> <br />
+            <font class="pagefoot">盧恩＆雪笠(Friendly Land),...</font> <br />
+            <font class="filesize">　</font>
+          </div>
+        </td>
+        <td width='15px' height="200px" style="vertical-align:top;padding:0px;">&nbsp;</td>
+
+        <td width='15px' height="200px" style="vertical-align:top;padding:0px;">&nbsp;</td>
+        <td width='140px' height="200px" style="vertical-align:top;padding:0px;text-align:left;border-radius:0px;border:0px solid #C8C8CD;">
+          <a href='https://kox.moe/c/fe7b88.htm' style="padding:0px"><div style="padding:0px;">
+            <div 
+              style="background:url(https://img.mxomo.com/cover/book/fe7/fe7b88.jpg!224x320?sign=1678176595-76595-0-bdcf06831f596f458bba923f97e20592) no-repeat center;background-size:140px 200px;
+                     padding:0px;vertical-align:middle;text-align:right;width:140px;height:200px;border:1px solid #C8C8CD;">
+              <div style="background:rgba(0,0,0,0.0);border:0px;padding:0px 5px 0px 5px;height:23px;">
+                <font style="padding:0px;color:#6a4c9c;font-size:14px;line-height:23px;display:;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>日語&nbsp;</b></font>
+                <font style="padding:0px;color:#0089a7;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>英文&nbsp;</b></font>
+                <font style="padding:0px;color:#22b14c;font-size:14px;line-height:23px;display:;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>完結&nbsp;</b></font>
+                <font style="padding:0px;color:#22b14c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>停更&nbsp;</b></font>
+              </div>
+              <p style="padding:140px 5px 0px 0px;color:#FF7700;font-size:15px;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>6.2</b></p></div>
+          </div></a>
+          <center class="bg_line_gary" style="display:none"></center>
+          <center style="height:3px;"></center>
+          <div style="padding:0px 5px 0px 5px;">
+            <a href='https://kox.moe/c/fe7b88.htm' style="font-size:13px;">ミキスト</a> <br />
+            <font class="pagefoot">巻來功士</font> <br />
+            <font class="filesize">　</font>
+          </div>
+        </td>
+        <td width='15px' height="200px" style="vertical-align:top;padding:0px;">&nbsp;</td>
+
+        <td width='15px' height="200px" style="vertical-align:top;padding:0px;">&nbsp;</td>
+        <td width='140px' height="200px" style="vertical-align:top;padding:0px;text-align:left;border-radius:0px;border:0px solid #C8C8CD;">
+          <a href='https://kox.moe/c/081e7b.htm' style="padding:0px"><div style="padding:0px;">
+            <div 
+              style="background:url(https://img.mxomo.com/cover/book/081/081e7b.jpg!224x320?sign=1678163496-63496-0-cff5f83e35d70b8887a71df64f4d9568) no-repeat center;background-size:140px 200px;
+                     padding:0px;vertical-align:middle;text-align:right;width:140px;height:200px;border:1px solid #C8C8CD;">
+              <div style="background:rgba(0,0,0,0.0);border:0px;padding:0px 5px 0px 5px;height:23px;">
+                <font style="padding:0px;color:#6a4c9c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>日語&nbsp;</b></font>
+                <font style="padding:0px;color:#0089a7;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>英文&nbsp;</b></font>
+                <font style="padding:0px;color:#22b14c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>完結&nbsp;</b></font>
+                <font style="padding:0px;color:#22b14c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>停更&nbsp;</b></font>
+              </div>
+              <p style="padding:140px 5px 0px 0px;color:#FF7700;font-size:15px;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>6.0</b></p></div>
+          </div></a>
+          <center class="bg_line_gary" style="display:none"></center>
+          <center style="height:3px;"></center>
+          <div style="padding:0px 5px 0px 5px;">
+            <a href='https://kox.moe/c/081e7b.htm' style="font-size:13px;">厭談夜話</a> <br />
+            <font class="pagefoot">外本ケンセイ,夜馬裕</font> <br />
+            <font class="filesize">　</font>
+          </div>
+        </td>
+        <td width='15px' height="200px" style="vertical-align:top;padding:0px;">&nbsp;</td>
+
+        <td width='15px' height="200px" style="vertical-align:top;padding:0px;">&nbsp;</td>
+        <td width='140px' height="200px" style="vertical-align:top;padding:0px;text-align:left;border-radius:0px;border:0px solid #C8C8CD;">
+          <a href='https://kox.moe/c/3f44ba.htm' style="padding:0px"><div style="padding:0px;">
+            <div 
+              style="background:url(https://img.mxomo.com/cover/book/3f4/3f44ba.jpg!224x320?sign=1678162610-62610-0-fcad42485f23f996eb9125c83340eba8) no-repeat center;background-size:140px 200px;
+                     padding:0px;vertical-align:middle;text-align:right;width:140px;height:200px;border:1px solid #C8C8CD;">
+              <div style="background:rgba(0,0,0,0.0);border:0px;padding:0px 5px 0px 5px;height:23px;">
+                <font style="padding:0px;color:#6a4c9c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>日語&nbsp;</b></font>
+                <font style="padding:0px;color:#0089a7;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>英文&nbsp;</b></font>
+                <font style="padding:0px;color:#22b14c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>完結&nbsp;</b></font>
+                <font style="padding:0px;color:#22b14c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>停更&nbsp;</b></font>
+              </div>
+              <p style="padding:140px 5px 0px 0px;color:#FF7700;font-size:15px;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>6.0</b></p></div>
+          </div></a>
+          <center class="bg_line_gary" style="display:none"></center>
+          <center style="height:3px;"></center>
+          <div style="padding:0px 5px 0px 5px;">
+            <a href='https://kox.moe/c/3f44ba.htm' style="font-size:13px;">姐姐給你泡紅茶呀？</a> <br />
+            <font class="pagefoot">依澄れい</font> <br />
+            <font class="filesize">　</font>
+          </div>
+        </td>
+        <td width='15px' height="200px" style="vertical-align:top;padding:0px;">&nbsp;</td>
+
+        <td width='15px' height="200px" style="vertical-align:top;padding:0px;">&nbsp;</td>
+        <td width='140px' height="200px" style="vertical-align:top;padding:0px;text-align:left;border-radius:0px;border:0px solid #C8C8CD;">
+          <a href='https://kox.moe/c/13124.htm' style="padding:0px"><div style="padding:0px;">
+            <div 
+              style="background:url(https://img.mxomo.com/cover/book/0007/13124.jpg!224x320?sign=1678152596-52596-0-4125877373caa73d2abfe3a8ec83f434) no-repeat center;background-size:140px 200px;
+                     padding:0px;vertical-align:middle;text-align:right;width:140px;height:200px;border:1px solid #C8C8CD;">
+              <div style="background:rgba(0,0,0,0.0);border:0px;padding:0px 5px 0px 5px;height:23px;">
+                <font style="padding:0px;color:#6a4c9c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>日語&nbsp;</b></font>
+                <font style="padding:0px;color:#0089a7;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>英文&nbsp;</b></font>
+                <font style="padding:0px;color:#22b14c;font-size:14px;line-height:23px;display:;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>完結&nbsp;</b></font>
+                <font style="padding:0px;color:#22b14c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>停更&nbsp;</b></font>
+              </div>
+              <p style="padding:140px 5px 0px 0px;color:#FF7700;font-size:15px;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>6.6</b></p></div>
+          </div></a>
+          <center class="bg_line_gary" style="display:none"></center>
+          <center style="height:3px;"></center>
+          <div style="padding:0px 5px 0px 5px;">
+            <a href='https://kox.moe/c/13124.htm' style="font-size:13px;">少女與戰車：緞帶武士</a> <br />
+            <font class="pagefoot">鈴木貴昭,野上武志</font> <br />
+            <font class="filesize">　</font>
+          </div>
+        </td>
+        <td width='15px' height="200px" style="vertical-align:top;padding:0px;">&nbsp;</td>
+
+    </tr> 
+    <tr class='listbg' style="padding:0px;">
+      <td colspan="21" style="height:20px;text-align:right;padding:0px;"></td>
+    </tr>
+
+    <tr class='listbg' style="padding:0px;">
+
+        <td width='15px' height="200px" style="vertical-align:top;padding:0px;">&nbsp;</td>
+        <td width='140px' height="200px" style="vertical-align:top;padding:0px;text-align:left;border-radius:0px;border:0px solid #C8C8CD;">
+          <a href='https://kox.moe/c/4c3b1f.htm' style="padding:0px"><div style="padding:0px;">
+            <div 
+              style="background:url(https://img.mxomo.com/cover/book/4c3/4c3b1f.jpg!224x320?sign=1678153918-53918-0-3ab3ee159e66977646b0ca24dca29513) no-repeat center;background-size:140px 200px;
+                     padding:0px;vertical-align:middle;text-align:right;width:140px;height:200px;border:1px solid #C8C8CD;">
+              <div style="background:rgba(0,0,0,0.0);border:0px;padding:0px 5px 0px 5px;height:23px;">
+                <font style="padding:0px;color:#6a4c9c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>日語&nbsp;</b></font>
+                <font style="padding:0px;color:#0089a7;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>英文&nbsp;</b></font>
+                <font style="padding:0px;color:#22b14c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>完結&nbsp;</b></font>
+                <font style="padding:0px;color:#22b14c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>停更&nbsp;</b></font>
+              </div>
+              <p style="padding:140px 5px 0px 0px;color:#FF7700;font-size:15px;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>6.0</b></p></div>
+          </div></a>
+          <center class="bg_line_gary" style="display:none"></center>
+          <center style="height:3px;"></center>
+          <div style="padding:0px 5px 0px 5px;">
+            <a href='https://kox.moe/c/4c3b1f.htm' style="font-size:13px;">只要是夫婦隨處是旅途</a> <br />
+            <font class="pagefoot">カヅチ</font> <br />
+            <font class="filesize">　</font>
+          </div>
+        </td>
+        <td width='15px' height="200px" style="vertical-align:top;padding:0px;">&nbsp;</td>
+
+        <td width='15px' height="200px" style="vertical-align:top;padding:0px;">&nbsp;</td>
+        <td width='140px' height="200px" style="vertical-align:top;padding:0px;text-align:left;border-radius:0px;border:0px solid #C8C8CD;">
+          <a href='https://kox.moe/c/20328.htm' style="padding:0px"><div style="padding:0px;">
+            <div 
+              style="background:url(https://img.mxomo.com/cover/book/0021/20328.jpg!224x320?sign=1678057364-57364-0-304a9b4e15c686360d9ad690cbcee29a) no-repeat center;background-size:140px 200px;
+                     padding:0px;vertical-align:middle;text-align:right;width:140px;height:200px;border:1px solid #C8C8CD;">
+              <div style="background:rgba(0,0,0,0.0);border:0px;padding:0px 5px 0px 5px;height:23px;">
+                <font style="padding:0px;color:#6a4c9c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>日語&nbsp;</b></font>
+                <font style="padding:0px;color:#0089a7;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>英文&nbsp;</b></font>
+                <font style="padding:0px;color:#22b14c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>完結&nbsp;</b></font>
+                <font style="padding:0px;color:#22b14c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>停更&nbsp;</b></font>
+              </div>
+              <p style="padding:140px 5px 0px 0px;color:#FF7700;font-size:15px;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>8.4</b></p></div>
+          </div></a>
+          <center class="bg_line_gary" style="display:none"></center>
+          <center style="height:3px;"></center>
+          <div style="padding:0px 5px 0px 5px;">
+            <a href='https://kox.moe/c/20328.htm' style="font-size:13px;">平穩世代的韋馱天們</a> <br />
+            <font class="pagefoot">天原,クール教信者</font> <br />
+            <font class="filesize">　</font>
+          </div>
+        </td>
+        <td width='15px' height="200px" style="vertical-align:top;padding:0px;">&nbsp;</td>
+
+        <td width='15px' height="200px" style="vertical-align:top;padding:0px;">&nbsp;</td>
+        <td width='140px' height="200px" style="vertical-align:top;padding:0px;text-align:left;border-radius:0px;border:0px solid #C8C8CD;">
+          <a href='https://kox.moe/c/17867.htm' style="padding:0px"><div style="padding:0px;">
+            <div 
+              style="background:url(https://img.mxomo.com/cover/book/0016/17867.jpg!224x320?sign=1678060336-60336-0-e8f296fe67890909bd1dcb527e06de3c) no-repeat center;background-size:140px 200px;
+                     padding:0px;vertical-align:middle;text-align:right;width:140px;height:200px;border:1px solid #C8C8CD;">
+              <div style="background:rgba(0,0,0,0.0);border:0px;padding:0px 5px 0px 5px;height:23px;">
+                <font style="padding:0px;color:#6a4c9c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>日語&nbsp;</b></font>
+                <font style="padding:0px;color:#0089a7;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>英文&nbsp;</b></font>
+                <font style="padding:0px;color:#22b14c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>完結&nbsp;</b></font>
+                <font style="padding:0px;color:#22b14c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>停更&nbsp;</b></font>
+              </div>
+              <p style="padding:140px 5px 0px 0px;color:#FF7700;font-size:15px;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>8.2</b></p></div>
+          </div></a>
+          <center class="bg_line_gary" style="display:none"></center>
+          <center style="height:3px;"></center>
+          <div style="padding:0px 5px 0px 5px;">
+            <a href='https://kox.moe/c/17867.htm' style="font-size:13px;">小精靈畫傳</a> <br />
+            <font class="pagefoot">王培堃</font> <br />
+            <font class="filesize">　</font>
+          </div>
+        </td>
+        <td width='15px' height="200px" style="vertical-align:top;padding:0px;">&nbsp;</td>
+
+        <td width='15px' height="200px" style="vertical-align:top;padding:0px;">&nbsp;</td>
+        <td width='140px' height="200px" style="vertical-align:top;padding:0px;text-align:left;border-radius:0px;border:0px solid #C8C8CD;">
+          <a href='https://kox.moe/c/27215.htm' style="padding:0px"><div style="padding:0px;">
+            <div 
+              style="background:url(https://img.mxomo.com/cover/book/0035/27215.jpg!224x320?sign=1678095759-95759-0-96caddb396aa6aa13edcbbdf812d6947) no-repeat center;background-size:140px 200px;
+                     padding:0px;vertical-align:middle;text-align:right;width:140px;height:200px;border:1px solid #C8C8CD;">
+              <div style="background:rgba(0,0,0,0.0);border:0px;padding:0px 5px 0px 5px;height:23px;">
+                <font style="padding:0px;color:#6a4c9c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>日語&nbsp;</b></font>
+                <font style="padding:0px;color:#0089a7;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>英文&nbsp;</b></font>
+                <font style="padding:0px;color:#22b14c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>完結&nbsp;</b></font>
+                <font style="padding:0px;color:#22b14c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>停更&nbsp;</b></font>
+              </div>
+              <p style="padding:140px 5px 0px 0px;color:#FF7700;font-size:15px;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>6.5</b></p></div>
+          </div></a>
+          <center class="bg_line_gary" style="display:none"></center>
+          <center style="height:3px;"></center>
+          <div style="padding:0px 5px 0px 5px;">
+            <a href='https://kox.moe/c/27215.htm' style="font-size:13px;">合租美人局</a> <br />
+            <font class="pagefoot">神月洸壱,久慈マサムネ</font> <br />
+            <font class="filesize">　</font>
+          </div>
+        </td>
+        <td width='15px' height="200px" style="vertical-align:top;padding:0px;">&nbsp;</td>
+
+        <td width='15px' height="200px" style="vertical-align:top;padding:0px;">&nbsp;</td>
+        <td width='140px' height="200px" style="vertical-align:top;padding:0px;text-align:left;border-radius:0px;border:0px solid #C8C8CD;">
+          <a href='https://kox.moe/c/702d1c.htm' style="padding:0px"><div style="padding:0px;">
+            <div 
+              style="background:url(https://img.mxomo.com/cover/book/702/702d1c.jpg!224x320?sign=1678086684-86684-0-52ad5ef0f2e3e671778da532d6cf5c33) no-repeat center;background-size:140px 200px;
+                     padding:0px;vertical-align:middle;text-align:right;width:140px;height:200px;border:1px solid #C8C8CD;">
+              <div style="background:rgba(0,0,0,0.0);border:0px;padding:0px 5px 0px 5px;height:23px;">
+                <font style="padding:0px;color:#6a4c9c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>日語&nbsp;</b></font>
+                <font style="padding:0px;color:#0089a7;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>英文&nbsp;</b></font>
+                <font style="padding:0px;color:#22b14c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>完結&nbsp;</b></font>
+                <font style="padding:0px;color:#22b14c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>停更&nbsp;</b></font>
+              </div>
+              <p style="padding:140px 5px 0px 0px;color:#FF7700;font-size:15px;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>5.8</b></p></div>
+          </div></a>
+          <center class="bg_line_gary" style="display:none"></center>
+          <center style="height:3px;"></center>
+          <div style="padding:0px 5px 0px 5px;">
+            <a href='https://kox.moe/c/702d1c.htm' style="font-size:13px;">S－與你，與他，與命運</a> <br />
+            <font class="pagefoot">南部ゼロイチ</font> <br />
+            <font class="filesize">　</font>
+          </div>
+        </td>
+        <td width='15px' height="200px" style="vertical-align:top;padding:0px;">&nbsp;</td>
+
+        <td width='15px' height="200px" style="vertical-align:top;padding:0px;">&nbsp;</td>
+        <td width='140px' height="200px" style="vertical-align:top;padding:0px;text-align:left;border-radius:0px;border:0px solid #C8C8CD;">
+          <a href='https://kox.moe/c/360cb8.htm' style="padding:0px"><div style="padding:0px;">
+            <div 
+              style="background:url(https://img.mxomo.com/cover/book/360/360cb8.jpg!224x320?sign=1678069528-69528-0-6b91bbc3bede682e8d13b55b29d7e5b4) no-repeat center;background-size:140px 200px;
+                     padding:0px;vertical-align:middle;text-align:right;width:140px;height:200px;border:1px solid #C8C8CD;">
+              <div style="background:rgba(0,0,0,0.0);border:0px;padding:0px 5px 0px 5px;height:23px;">
+                <font style="padding:0px;color:#6a4c9c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>日語&nbsp;</b></font>
+                <font style="padding:0px;color:#0089a7;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>英文&nbsp;</b></font>
+                <font style="padding:0px;color:#22b14c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>完結&nbsp;</b></font>
+                <font style="padding:0px;color:#22b14c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>停更&nbsp;</b></font>
+              </div>
+              <p style="padding:140px 5px 0px 0px;color:#FF7700;font-size:15px;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>7.9</b></p></div>
+          </div></a>
+          <center class="bg_line_gary" style="display:none"></center>
+          <center style="height:3px;"></center>
+          <div style="padding:0px 5px 0px 5px;">
+            <a href='https://kox.moe/c/360cb8.htm' style="font-size:13px;">幼兒園戰爭</a> <br />
+            <font class="pagefoot">千葉侑生</font> <br />
+            <font class="filesize">　</font>
+          </div>
+        </td>
+        <td width='15px' height="200px" style="vertical-align:top;padding:0px;">&nbsp;</td>
+
+        <td width='15px' height="200px" style="vertical-align:top;padding:0px;">&nbsp;</td>
+        <td width='140px' height="200px" style="vertical-align:top;padding:0px;text-align:left;border-radius:0px;border:0px solid #C8C8CD;">
+          <a href='https://kox.moe/c/8d9668.htm' style="padding:0px"><div style="padding:0px;">
+            <div 
+              style="background:url(https://img.mxomo.com/cover/book/8d9/8d9668.jpg!224x320?sign=1678075907-75907-0-22eef362ed561d83647eb1e06f679f4a) no-repeat center;background-size:140px 200px;
+                     padding:0px;vertical-align:middle;text-align:right;width:140px;height:200px;border:1px solid #C8C8CD;">
+              <div style="background:rgba(0,0,0,0.0);border:0px;padding:0px 5px 0px 5px;height:23px;">
+                <font style="padding:0px;color:#6a4c9c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>日語&nbsp;</b></font>
+                <font style="padding:0px;color:#0089a7;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>英文&nbsp;</b></font>
+                <font style="padding:0px;color:#22b14c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>完結&nbsp;</b></font>
+                <font style="padding:0px;color:#22b14c;font-size:14px;line-height:23px;display:none;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>停更&nbsp;</b></font>
+              </div>
+              <p style="padding:140px 5px 0px 0px;color:#FF7700;font-size:15px;
+                        text-shadow:1px 1px #FFFFFF, 1px -1px #FFFFFF, -1px 1px #FFFFFF, -1px -1px #FFFFFF"><b>6.0</b></p></div>
+          </div></a>
+          <center class="bg_line_gary" style="display:none"></center>
+          <center style="height:3px;"></center>
+          <div style="padding:0px 5px 0px 5px;">
+            <a href='https://kox.moe/c/8d9668.htm' style="font-size:13px;">玉姬的出嫁</a> <br />
+            <font class="pagefoot">森本梢子</font> <br />
+            <font class="filesize">　</font>
+          </div>
+        </td>
+        <td width='15px' height="200px" style="vertical-align:top;padding:0px;">&nbsp;</td>
+
+    </tr> 
+    <tr class='listbg' style="padding:0px;">
+      <td colspan="21" style="height:20px;text-align:right;padding:0px;"></td>
+    </tr>
+
+    <tr style="vertical-align:top">
+      <td class='listtitle' colspan="6">
+        <label style='vertical-align:middle;'>&nbsp;all2.htm</label>
+      </td>
+      <td class='listtitle' colspan="15" style="height:56px;text-align:right;padding-right:20px;">
+        <label style='vertical-align:middle;'>17029 部 / 811 頁　
+        <button type="button" class="bt_sml_disa" style="width:70px" disabled>&lt;十頁</button>
+        <button type="button" class="bt_sml_disa" style="width:60px" disabled>上頁</button>
+        <a href="https://kox.moe/l/all2.htm,all,all,sortpoint,all,all,none/1.htm"><button type="button" name="link_page" class="bt_sml_defa" style="width:46px">01</button></a>
+        <a href="https://kox.moe/l/all2.htm,all,all,sortpoint,all,all,none/2.htm"><button type="button" name="link_page" class="bt_sml_defa" style="width:46px">02</button></a>
+        <a href="https://kox.moe/l/all2.htm,all,all,sortpoint,all,all,none/3.htm"><button type="button" name="link_page" class="bt_sml_defa" style="width:46px">03</button></a>
+        <a href="https://kox.moe/l/all2.htm,all,all,sortpoint,all,all,none/4.htm"><button type="button" name="link_page" class="bt_sml_defa" style="width:46px">04</button></a>
+        <a href="https://kox.moe/l/all2.htm,all,all,sortpoint,all,all,none/5.htm"><button type="button" name="link_page" class="bt_sml_defa" style="width:46px">05</button></a>
+        <a href="https://kox.moe/l/all2.htm,all,all,sortpoint,all,all,none/2.htm"><button type="button" class="bt_sml_main" style="width:60px">下頁</button></a>
+        <a href="https://kox.moe/l/all2.htm,all,all,sortpoint,all,all,none/11.htm"><button type="button" class="bt_sml_defa" style="width:70px">十頁&gt;</button></a>
+        　到 <input id='input_go_2' type='text' style='width:20px' class="input_sml" style="font-size:10px;height:20px;"> 頁
+        <button type="button" class="bt_sml_defa" style="width:40px" onclick='javascript:do_page_go( "all2.htm,all,all,sortpoint,all,all,none", "input_go_2" );'>GO</button>
+        </label>
+      </td>
+    </tr>
+
+  </table>
+</div>
+
+<!-- content end -->
+<div class="hr_10"></div>
+<div class="hr_10"></div>
+<div class="hr_10"></div>
+<div class="hr_10"></div>
+<div class="hr_10"></div>
+<center class="bg_line_green"></center>
+<div class="hr_10"></div>
+<div id="page_foot">
+  <div class="pagefoot">
+    <a href="https://k.kox.moe/l/all2.htm">Kindle版</a> &nbsp; &nbsp;
+    <a href="https://m.kox.moe/l/all2.htm">手機版</a>
+  </div>
+  <div class="pagefoot">
+    本站內容均由網友上傳，如有疑問或爭議請聯繫 mail&#64;kox.moe
+  </div>
+  <div class="pagefoot">
+    &equiv;　1041-2023 <a href="https://kox.moe">Kox.moe</a> ,&nbsp; by Kmoe　&equiv;
+  </div>
+</div>
+</body>
+</html>
+<iframe name="iframe_action"   id="iframe_action"   src="" height="0" width="0" style="display:none"></iframe>
+<script src="/volcomm.js?0501" type="text/javascript" language="javascript"></script>
+<script src="https://turing.captcha.qcloud.com/TCaptcha.js"></script>
+<script language='javascript'>
+    if ( document.getElementById("sel_order_sortpoint") ) {
+        document.getElementById("sel_order_sortpoint").setAttribute( "style", "color:#000000;background-color:#7DB9DE;" );
+    } // if
+    if ( document.getElementById("sel_lang_all") ) {
+        document.getElementById("sel_lang_all").setAttribute( "style", "color:#000000;background-color:#7DB9DE;" );
+    } // if
+    if ( document.getElementById("sel_blen_all") ) {
+        document.getElementById("sel_blen_all").setAttribute( "style", "color:#000000;background-color:#7DB9DE;" );
+    } // if
+    if ( document.getElementById("sel_status_all") ) {
+        document.getElementById("sel_status_all").setAttribute( "style", "color:#000000;background-color:#7DB9DE;" );
+    } // if
+    if ( document.getElementById("sel_region_all") ) {
+        document.getElementById("sel_region_all").setAttribute( "style", "color:#000000;background-color:#7DB9DE;" );
+    } // if
+    if ( document.getElementById("sel_type_all2.htm") ) {
+        //document.getElementById("sel_type_all2.htm").setAttribute( "style", "background-color: #66CCFF; color: #000000" );
+        document.getElementById("sel_type_all2.htm").setAttribute( "style", "color:#000000;background-color:#7DB9DE;" );
+    } // if
+    if ( document.getElementById("sel_igno_all2.htm") ) {
+        //document.getElementById("sel_igno_all2.htm").setAttribute( "style", "background-color: #66CCFF; color: #000000" );
+        document.getElementById("sel_igno_all2.htm").setAttribute( "style", "color:#000000;background-color:#7DB9DE;" );
+        document.getElementById("sel_igno_all2.htm").innerText = "";
+    } // if
+    if ( document.getElementById("sel_type_none") ) {
+        //document.getElementById("sel_type_none").setAttribute( "style", "background-color: #F8F8F8; color: #8F8F8F" );
+        document.getElementById("sel_type_none").setAttribute( "style", "color:#A5DEE4;text-shadow:0px 0px 14px #000000;" );
+    } // if
+    if ( document.getElementById("sel_igno_none") ) {
+        document.getElementById("sel_igno_none").innerText = "";
+        //document.getElementById("sel_igno_clean_none").innerText = "O";
+        //document.getElementById("info_igno").style.display = "";
+    } // if
+    if ( parseInt("0") >= 1 ) {
+        document.getElementById("sel_filter_color").setAttribute( "style", "background-color:#FC9F4D;" );
+    } // if
+    if ( parseInt("0") >= 1 ) {
+        document.getElementById("sel_filter_hd").setAttribute( "style", "background-color:#FC9F4D;" );
+    } // if
+    if ( document.getElementsByName("link_page") ) {
+        var obj_link = document.getElementsByName("link_page");
+        var i = 0;
+        var page_now = "01";
+        for( i=0; i<obj_link.length; i++ ) {
+            if ( obj_link[i].innerHTML == page_now ) obj_link[i].innerHTML = "<b><u>" + obj_link[i].innerHTML+ "</u></b>";
+            if ( obj_link[i].innerHTML.length <= 0 ) obj_link[i].style.display = "none";
+        } // for
+    } // if
+
+
+    function do_page_go( str_search, str_input )
+    {
+        var obj_input;
+        obj_input = document.getElementById( str_input );
+        if ( parseInt(obj_input.value) <= 0 ) {
+            return( false );
+        } // if
+
+        window.location.href = "/l/" + str_search + "/" + obj_input.value + ".htm";
+        //window.location.reload();
+        return( false );
+    } // function
+
+
+    document.body.style="background-image:url('https://moimg.mxomo.com/moe-bg/bg-06.jpg?0');background-size:2000px 250px;";
+    //window.onbeforeunload = function() {
+        captcha_data( '199191905' );
+    //} // if
+</script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?032bfff3c38eeefc9db7c70d96d9cae4";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
