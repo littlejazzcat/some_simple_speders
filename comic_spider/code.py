@@ -5,7 +5,7 @@ import random
 import threading
 import os
 
-base_url = 'https://kox.moe/l/all'
+base_url = 'https://kox.moe/l/all/'
 USER_AGENT = [
     'Chrome 9	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36',
     'Chrome	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
@@ -45,7 +45,7 @@ def get_img(base_url, index):
         else:
             html = res.text
             #将静态文件保存到本地
-            with open(f"some_simple_spiders\\comic_spider\\still_html\\{index}","w+", encoding="utf-8") as f:
+            with open(f"some_simple_spiders\\comic_spider\\still_html\\{index}.html","w+", encoding="utf-8") as f:
                 f.write(html)
         
         semaphore.release()
@@ -64,7 +64,7 @@ if __name__ == '__main__':
     for index in range(1,5):
         semaphore.acquire()
         t = threading.Thread(target=get_img,args=(
-            f"https://kox.moe/l/all",index))
+            f"https://kox.moe/l/all/",index))
         t.start()
         lst_record_threads.append(t)
 
