@@ -6,7 +6,6 @@ import time
 
 headers = {
     "User-Agent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36",
-    #"Cookie" : "wzws_sessionid=oGT6gveAMTQuMjMuMTgyLjY1gWJmZTJhM4IwZjU0MGU=; PHPSESSID=tof8jg7ispbg445roufpgsgh74; think_var=zh-cn",
     #"Connection" : 'keep-alive'
 }
 
