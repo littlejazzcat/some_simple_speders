@@ -61,7 +61,7 @@ if __name__ == '__main__':
     #开启五个线程
     semaphore = threading.BoundedSemaphore(5)
     lst_record_threads = []
-    for index in range(1,5):
+    for index in range(1,30):
         semaphore.acquire()
         t = threading.Thread(target=get_img,args=(
             f"https://kox.moe/l/all/",index))
